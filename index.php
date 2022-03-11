@@ -4,6 +4,9 @@
     h3{
       color:blue;
       }
+    h1{
+      color:'red';
+    }
   </style>
     <title>My Web App!!</title>
 </head>
