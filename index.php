@@ -5,7 +5,7 @@
       color:blue;
       }
     h1{
-      color:'red';
+      color:red;
     }
   </style>
     <title>My Web App!!</title>
